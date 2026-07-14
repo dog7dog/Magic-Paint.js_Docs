@@ -38,7 +38,7 @@ JavaScript の基本的な知識があることを推奨します。
 このドキュメントは、Magic-Paint.js の開発状況に合わせて更新されます。
 
 APIやSDKの仕様は、将来のバージョンで変更・追加される場合があります。
-
+MOD.jsonは現在はmanifest.jsonです
 ---
 
 © Magic-Paint.js Project
